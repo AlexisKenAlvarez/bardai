@@ -3,7 +3,7 @@ import Phase from '../templates/Phase'
 
 const Roadmap = () => {
     return (
-        <section className='w-full h-auto py-20 bg-myblack text-white'>
+        <section className='w-full h-auto py-20 bg-myblack text-white' id="roadmap">
 
             <h1 className='md:text-6xl text-4xl font-bold uppercase text-center mb-20'>
                 <span className='text-gblue'>R</span>

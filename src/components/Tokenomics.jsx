@@ -23,7 +23,7 @@ const Tokenomics = () => {
 
 
     return (
-        <section className='w-full h-auto bg-myblack font-saira flex flex-around items-center px-10 text-white lg:flex-row flex-col overflow-hidden'>
+        <section className='w-full h-auto bg-myblack font-saira flex flex-around items-center px-10 text-white lg:flex-row flex-col overflow-hidden' id="tokenomics">
             <div className='w-full flex items-center justify-center'>
                 <div className='w-fit'>
                     <h1 className='md:text-6xl text-4xl font-bold uppercase'>
@@ -38,8 +38,6 @@ const Tokenomics = () => {
                         <h3 className='text-white text-3xl opacity-50 font-semibold'>Total Tax</h3>
                     </div>
                 </div>
-
-
             </div>
             <motion.img initial={{opacity: 0, scale: 0.5, y: 200, rotateY: 360}} animate={ tokenview ?  {opacity: 100, scale: 1, y: 0, rotateY: 0} : {}} transition={{duration: 0.6, delay: 0.1}} src="/coin.webp" alt="Coin" className="w-[70vh]" />
         </section>
