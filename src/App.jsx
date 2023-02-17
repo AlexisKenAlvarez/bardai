@@ -5,6 +5,8 @@ import { Parallax } from 'react-scroll-parallax'
 import Ecosystem from './components/Ecosystem'
 import Nav from './utils/Nav'
 import Tokenomics from './components/Tokenomics'
+import Roadmap from './components/Roadmap'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -17,8 +19,10 @@ const App = () => {
       <Parallax speed={5}>
         <Ecosystem />
         <Tokenomics />
+        <Roadmap/>
       </Parallax>
      
+      <Footer/>
 
     </div>
 

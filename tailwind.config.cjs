@@ -27,7 +27,7 @@ module.exports = {
       },
       boxShadow: {
         'eco': '0px -17px 51px 0px rgba(6,7,27,0.75)',
-        'glow': '0px 0px 150px 60px rgba(35,71,151,0.40)',
+        'glow': '0px 0px 150px 5px rgba(35,71,151,0.3)',
       }
     },
   },
