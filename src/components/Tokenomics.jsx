@@ -23,7 +23,7 @@ const Tokenomics = () => {
 
 
     return (
-        <section className='w-full h-auto bg-myblack font-saira flex flex-around items-center px-10 text-white lg:flex-row flex-col'>
+        <section className='w-full h-auto bg-myblack font-saira flex flex-around items-center px-10 text-white lg:flex-row flex-col overflow-hidden'>
             <div className='w-full flex items-center justify-center'>
                 <div className='w-fit'>
                     <h1 className='md:text-6xl text-4xl font-bold uppercase'>
