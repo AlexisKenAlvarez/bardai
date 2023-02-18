@@ -44,7 +44,9 @@ const Ecosystem = () => {
                                 <span className='text-gred'>A</span>
                                 <span className='text-gorange'>R</span>
                                 <span className='text-ggreen'>D </span></h1>
-                            <p className='text-left lg:mt-4 mt-5 max-w-[30rem] 2xl:max-w-[35rem] text-sm lg:text-md 2xl:text-lg font-poppins'>Web AI is an innovative project that uses Artificial Intelligence &#40;AI&#41; technology to create customized websites from scratch. It utilizes deep learning algorithms and natural language processing &#40;NLP&#41; to analyze user requests and generate attractive, user-friendly websites according to their preferences. With its intuitive design, Web AI simplifies the website creation process and enables users to develop professional-looking websites for any purpose without manual coding.</p>
+                            <p className='text-left lg:mt-4 mt-5 max-w-[30rem] 2xl:max-w-[35rem] text-sm lg:text-md 2xl:text-lg font-poppins'>BardAI is a blockchain-based project that aims to create an open-ended and decentralized platform for creative collaboration and sharing. It utilizes smart contracts and distributed ledger technologies to create an incentivized, trustless, and secure environment for creatives to develop projects, connect and collaborate with peers, and receive compensation for their work. <br/> <br/>
+                            
+                            BardAI seeks to foster an environment where creatives from all over the world can contribute and benefit from the contributions of others, enabling individuals to break through traditional barriers of geography and technology to work together on shared projects.</p>
                         </div>
 
 
